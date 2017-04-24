@@ -1,1 +1,3 @@
 # TW
+
+In aplicatie se pot accesa o serie de informatii privind un CUTREMUR. In urma unui cutremur pot exista MORTI, RANITI dar si oameni NEVATAMATI. Fiecare tabela din acestea 3 reprezinta o fisa de evidenta in cazul in care cineva cauta o persoana. Tabelele SPITAL si ADAPOST reprezinta locurile cele mai probabile in care persoanele afectate de catre cutremur ar fi duse. In tabela VOLUNTARI sunt persoanele care au venit in locul in care s-a produs cutremurul pentru a ajuta echipele de interventie si este nevoie de o asemenea tabela pentru a sti cati oameni avem pentru o salvare cat mai rapida a persoanelor prinsi sub daramaturi sau care au nevoie de ajutor. Tabela URMARI este necesara pentru a evalua consecintele si gravitatea cutremurului produs.
